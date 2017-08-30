@@ -4,3 +4,4 @@ git is fun under the GPL.
 git has a nutable index called stage.
 git tracks changs.
 git haha.
+create a new branch is quick.
