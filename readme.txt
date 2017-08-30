@@ -5,3 +5,4 @@ git has a nutable index called stage.
 git tracks changs.
 git haha.
 create a new branch is quick.
+create a new branch is quick & simple.
